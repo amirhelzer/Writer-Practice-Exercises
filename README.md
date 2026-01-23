@@ -1,5 +1,8 @@
 # Practice What You Learned
 
+* TOC
+{:toc}
+
 ## Graduation project
 
 For your graduation, you’ll need to write two pieces of content:
