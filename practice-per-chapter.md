@@ -3,8 +3,6 @@ title: Practice per chapter
 nav_order: 3
 ---
 
-# Practice per chapter
-
 | Chapter | Practice |
 | :---- | :---- |
 | All content matters. | Use your own personal experience and describe several pieces of content, which people would usually label as “technical material” or “unimportant” and explain how they can be done correctly to drive business results. |
