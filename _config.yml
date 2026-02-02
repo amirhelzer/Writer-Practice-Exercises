@@ -9,4 +9,4 @@ just_the_docs:
       output: true
 
 kramdown:
-  toc_levels: 2..3
+  toc_levels: 1..3
